@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {//继承父类
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //add somethings...
 
     }
 
